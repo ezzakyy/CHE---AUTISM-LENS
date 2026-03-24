@@ -1,0 +1,21 @@
+HCE ~ AUTISM LENS ZHOOOOOOO/
+│
+├──  data/
+│   └── train.csv			 
+│
+├──  notebooks/
+│   ├── 01_EDA_and_Preprocessing.ipynb   
+│   └── 02_Model_Training.ipynb          
+│
+├──  saved_models/
+│   ├── best_model.pkl
+│   ├── scaler.pkl
+│   └── encoders.pkl
+│
+├──  app.py                           	 
+├──  chatbot.py                	 
+├──  database.py               	 
+├──  predictor.py              	 
+├──  style.css 			                	 
+├──  config.py                 	 
+└──  requirements.txt          	 
