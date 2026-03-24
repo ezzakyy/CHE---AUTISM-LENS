@@ -26,6 +26,9 @@ joblib==1.4.2
 
 # API HuggingFace
 requests==2.32.3
+openai>=1.0.0
+
+python-dotenv==1.0.0
 
 # Base de données (inclus avec Python)
 # sqlite3 → pas besoin d'installation
